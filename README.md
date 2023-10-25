@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD SARFARAZ</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-
- ### My Resume: <a href="" target="_blank">Link</a>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfarazit08&label=Profile%20views&color=0e75b6&style=flat" alt="sarfarazit08" /> </p>
+<h3 align="center"><a href="" target="_blank">My Resume</a></h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarfarazit08&label=Profile%20views&color=0e75b6&style=flat" alt="sarfarazit08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarfarazit08" alt="sarfarazit08" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sarfarazit08" target="blank"><img src="https://img.shields.io/twitter/follow/sarfarazit08?logo=twitter&style=for-the-badge" alt="sarfarazit08" /></a> </p>
+### About Me
 
 - 🔭 I’m currently working on [Azure OpenAI Service](https://github.com/sarfarazit08/Azure-OpenAI-GenerativeAI-HandsOn-Tutorials)
 
@@ -21,10 +17,11 @@
 
 - 💬 Ask me about **Azure, MuleSoft, Azure OpenAI, Azure Integrations**
 
-- 📫 How to reach me **sarfarazit08@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="left"> <a href="https://twitter.com/sarfarazit08" target="blank"><img src="https://img.shields.io/twitter/follow/sarfarazit08?logo=twitter&style=for-the-badge" alt="sarfarazit08" /></a> </p>
 <a href="https://twitter.com/sarfarazit08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarfarazit08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sarfarazit08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarfarazit08" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/learnwithnewton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnwithnewton" height="30" width="40" /></a>
@@ -46,6 +43,7 @@
 + 📝 LinkedIn: https://www.linkedin.com/in/sarfarazit08
 + 🎵 SoundCloud: https://soundcloud.com/sarfarazit08
 + 📱 WhatsApp: https://www.whatsapp.com/channel/0029Va9ncUACcW4qjV7WSp09
++ 📫 How to reach me **sarfarazit08@gmail.com**
 
 </p>
 
