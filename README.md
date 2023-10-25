@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD SARFARAZ</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
 <p align="center">  
 <a href="https://www.linkedin.com/in/sarfarazit08/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://www.youtube.com/@LearnWithNewton" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
@@ -10,19 +9,29 @@
 <p  align="center">
 <a href="https://stackoverflow.com/users/3770081/md-sarfaraz"><img src="https://stackoverflow.com/users/flair/3770081.png" width="208" height="58" alt="profile for MD SARFARAZ at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MD SARFARAZ at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> 
 </p>
-<h3 align="center"><a href="" target="_blank">Check out my Resume</a></h3>
+<h3 align="center"><a href="" target="_blank">📄 Resume</a></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarfarazit08&label=Profile%20views&color=0e75b6&style=flat" alt="sarfarazit08" /> </br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarfarazit08&row=2&column=4&theme=dark_lover" alt="sarfarazit08" /></a></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarfarazit08&show_icons=true&locale=en&layout=compact" alt="sarfarazit08" /></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarfarazit08&show_icons=true&locale=en" alt="sarfarazit08" /></p>
 
-<h3 align="center">About Me</h3>
+<h2 align="center">🧑🏻 About Me</h2>
 
 <p align="center">🔭 I’m currently working on <a href="https://github.com/sarfarazit08/Azure-OpenAI-GenerativeAI-HandsOn-Tutorials">Azure OpenAI Service</a></p>
 <p align="center">🌱 I’m currently learning <strong>Generative AI, Streamlit, Computer Vision, Stable Diffusion</strong></p>
 <p align="center">👨‍💻 All of my projects are available at <a href="https://github.com/sarfarazit08">https://github.com/sarfarazit08</a></p>
 <p align="center">📝 I regularly write articles on <a href="https://learnwithnewt.wordpress.com/">https://learnwithnewt.wordpress.com/</a></p>
 <p align="center">💬 Ask me about <strong>Azure, MuleSoft, Azure OpenAI, Azure Integrations</strong></p>
+
+<h2 align="center">🏆 Certifications</h2>
+<p align="center"><a href="https://www.credly.com/badges/a95239f5-64f7-4e74-853c-164c2f781912">LFQ101: Fundamentals of Quantum Computing</a></p>
+<p align="center"><a href="https://www.credly.com/badges/5c58c184-02ed-493d-90b0-be57ef2e63ae">LFQ102: Quantum Computing Essentials For Senior Leaders</a></p>
+<p align="center"><a href="https://www.credly.com/badges/42ff67ec-6357-4d10-b9bc-b0ef337724a1">LFC131: Green Software for Practitioners</a></p>
+<p align="center"><a href="https://www.credly.com/badges/cc277bc7-6636-452d-89dd-70580ec6e5fe">Microsoft Certified: Azure AI Engineer Associate</a></p>
+<p align="center"><a href="https://www.credly.com/badges/39b66aaa-7c6f-4fff-95a6-21b5ebb71d38">Microsoft Certified: Azure AI Fundamentals</a></p>
+<p align="center"><a href="https://www.credly.com/badges/046d3c6e-756d-4076-880c-2130fa4c3bd6">Microsoft Certified: Azure Data Fundamentals</a></p>
+<p align="center"><a href="https://www.credly.com/badges/b704f9a0-ca3d-44b3-89c3-80ea6e56c80c">Microsoft Certified: Azure Fundamentals</a></p>
+
 
 <h3 align="center">Social Links</h3>
 
