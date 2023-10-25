@@ -7,7 +7,9 @@
 <a href="mailto:sarfarazit08@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://twitter.com/sarfarazit08" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 </p>
-
+<p  align="center">
+<a href="https://stackoverflow.com/users/3770081/md-sarfaraz"><img src="https://stackoverflow.com/users/flair/3770081.png" width="208" height="58" alt="profile for MD SARFARAZ at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MD SARFARAZ at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> 
+</p>
 <h3 align="center"><a href="" target="_blank">Check out my Resume</a></h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarfarazit08&label=Profile%20views&color=0e75b6&style=flat" alt="sarfarazit08" /> </br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarfarazit08&row=2&column=4&theme=dark_lover" alt="sarfarazit08" /></a></br>
