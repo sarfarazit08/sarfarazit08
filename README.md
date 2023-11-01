@@ -14,6 +14,8 @@
                 <p>📝 I regularly write articles on <a
                         href="https://learnwithnewt.wordpress.com/">https://learnwithnewt.wordpress.com/</a></p>
                 <p>💬 Ask me about <strong>Azure, MuleSoft, Azure OpenAI, Azure Integrations</strong></p>
+                <h2> Portfolio </h2>
+                    <p><a href="https://promptgen.streamlit.app/">Prompt Collector App & More</a></p>
                 <h2>🏆 Certifications</h2>
                     <a href="https://www.credly.com/badges/a95239f5-64f7-4e74-853c-164c2f781912">LFQ101:
                             Fundamentals of Quantum Computing</a><br>
