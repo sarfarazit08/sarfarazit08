@@ -38,6 +38,7 @@
                     <a href="https://www.whatsapp.com/channel/0029Va9ncUACcW4qjV7WSp09">📱 WhatsApp</a> | 
                     <a href="https://www.linkedin.com/in/sarfarazit08/" target="_blank">🧑🏽‍🔬 LinkedIn</a> | 
                     <a href="https://www.youtube.com/@LearnWithNewton" target="_blank">▶️ YouTube</a> | 
+                    <a href="https://learn.microsoft.com/en-us/users/sarfarazit08" target="_blank">🪟 Microsoft </a> |
                     <a href="mailto:sarfarazit08@gmail.com">📧 Gmail</a> <br>
                     <a href="https://www.instagram.com/LearnWithNewton/">📷 Instagram</a> | 
                     <a href="https://twitter.com/LearnWithNewton/">🐦 Twitter</a> | 
